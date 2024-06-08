@@ -1,2 +1,5 @@
 # :airplane: Credit Rewards Converter :airplane:
-This is the project repo for the JPMC Software Engineering Lite Program, consult the program instructions for more information.
+This is the project repo for the JPMC Software Engineering Lite Program.
+
+# Here is the background information on the task
+You work in the credit rewards department at JPMorgan Chase. Your team handles conversions from dollars to credit card points, credit card points to miles, miles to credit card points, and so on. Today, you are working on a ticket involving the RewardsConverter system, which needs a new part to function. This system is missing a crucial class, which you’ll be creating over the course of this program. The RewardsConverter system accepts a cash value and returns the corresponding value in airline miles. The system needs a RewardValue class to function, which represents the correspondence between currencies, be it cash, airline miles, or something else. It will handle the conversion between all of these scales. In this task, you will set up your local development environment for coding and implement the aforementioned class.
